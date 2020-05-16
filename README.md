@@ -8,7 +8,7 @@
 ### Motivation
 For this project I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. Below It can be seen an example of what the dashboard could look like displaying articles on the IBM Platform.
 
-<img src="img/Recommendations_with_IBM.png" width="80%" alt="Recommendations with IBM">
+<img src="Img/Recommendations_with_IBM.png" width="80%" alt="Recommendations with IBM">
 
 The above dashboard is just showing the newest articles. It could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
 
